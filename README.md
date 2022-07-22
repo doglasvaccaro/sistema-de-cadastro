@@ -1,10 +1,9 @@
-<h1>Sistema de Cadastro de Jogos</h1>
+#Sistema de Cadastro de Jogos
 
->Status: em desenvolvimento
+> Status: Em desenvolvimento
 
 Para rodar esse projeto:
+
 ...
-
 npm install react
-
 ...
