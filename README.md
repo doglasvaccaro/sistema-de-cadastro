@@ -3,7 +3,8 @@
 >Status: em desenvolvimento
 
 Para rodar esse projeto:
-
 ...
+
 npm install react
+
 ...
